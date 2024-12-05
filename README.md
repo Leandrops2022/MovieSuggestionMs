@@ -35,7 +35,7 @@ data to perform the queries.
 substitute "{mood}" with one of the listed
 above.
 
-3 - you will receive a response, if successfull, like: \
+3 - you will receive a response, if successfull, like:
 {
     "nota": 7.72,
     "id": 9116,
