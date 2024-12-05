@@ -1,3 +1,5 @@
+![Cover Image](cover.png)
+
 # MovieSuggestionMs
 This is a movie suggestion microservice.
 
