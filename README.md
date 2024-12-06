@@ -52,7 +52,7 @@ Alternatively upon running the project you can also check the swagger documentat
 you are also able to test the request.
 
 **Observation:** The real database has been removed from the project as a security measurement and also to comply to nda
-agreements, if you wish to test the project you can download docker and run the following commands to create a testing
+clauses. If you wish to test the project you can download docker and run the following commands to create a testing
 database.
 
 first of all, you must create a .env file in the root of the project and add the variables:
